@@ -8,9 +8,9 @@ namespace LineComparison
         {
             //Console.WriteLine("Welcome to Line Comparison Computation Program\n");
 
-            LengthCalculation.LineLengthCalculation();
+            //LengthCalculation.LineLengthCalculation();
 
-            //EqualityOfTwoLines.EqualityOfTwoLengths();
+            EqualityOfTwoLines.EqualityOfTwoLengths();
 
             //TwoLineLengthComparisson.LengthComparisson();
         }
