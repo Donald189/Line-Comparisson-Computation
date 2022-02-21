@@ -10,9 +10,9 @@ namespace LineComparison
 
             //LengthCalculation.LineLengthCalculation();
 
-            EqualityOfTwoLines.EqualityOfTwoLengths();
+            //EqualityOfTwoLines.EqualityOfTwoLengths();
 
-            //TwoLineLengthComparisson.LengthComparisson();
+            TwoLineLengthComparisson.LengthComparisson();
         }
     }
 }
