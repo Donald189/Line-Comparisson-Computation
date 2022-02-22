@@ -8,6 +8,10 @@ namespace LineComparison
 {
     public class LengthCalculation
     {
+        /// <summary>
+        ///UC-3 Calculate Length of Lne.
+        /// </summary>
+        
         public static void LineLengthCalculation()
         {
             double  L1x1, L1y1,L1x2,L1y2;
