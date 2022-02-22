@@ -8,6 +8,10 @@ namespace LineComparison
 {
     public class TwoLineLengthComparisson
     {
+        /// <summary>
+        ///UC-3 Length Comparison of Two Lines.
+        /// </summary>
+        
         public static void LengthComparisson()
         {
             string comparison;
