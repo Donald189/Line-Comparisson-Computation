@@ -8,6 +8,10 @@ namespace LineComparison
 {
     public class EqualityOfTwoLines
     {
+        /// <summary>
+        ///UC-3 Calculate To Line Equality.
+        /// </summary>
+        
         public static void EqualityOfTwoLengths()
         {
             double L1x1, L1x2, L1y1, L1y2;
